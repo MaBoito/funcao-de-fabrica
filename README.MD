@@ -1,7 +1,7 @@
 
-# Desafio Números primos
+# Desafio factory function
 
-Esse desafio foi feito para desenvolver um método onde apareça somente os números primos.
+Esse desafio é para desenvolver uma factory function
 
 ## 🚀 Tecnologias
 
